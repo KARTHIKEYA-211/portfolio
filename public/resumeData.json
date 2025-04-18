@@ -1,0 +1,96 @@
+{
+  "main": {
+    "name": "Karthikeya Addepalli",
+    "occupation": "Student",
+    "description": "I eat, sleep and breathe Build",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I'm Karthikeya! A passionate machine learning enthusiast and developer. I've been building ML projects for over a year now, exploring areas like supervised and unsupervised learning, deep learning, and real-world applications of AI. From data preprocessing to model deployment, I enjoy every step of the ML lifecycle. I'm constantly looking to push the boundaries of what I can build and learn, whether that's through personal projects, collaborative work, or diving into new research and tools.",
+    "contactmessage": "Get in touch with me",
+    "email": "karthikeya.21@yahoo.com",
+    "phone": "+91 9000311564",
+    "address": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "zip-code/pin-code": "500056"
+    },
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/mrk21112004/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/KARTHIKEYA-211",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "MLR Institute of Technology",
+        "degree": "Bachelor's Degree, Information Technology",
+        "graduation": "Tentative 2026",
+        "description": "CGPA: 8.5"
+      }
+    ],
+    "work": [
+      {
+        "company": "JP Morgan & Chase (Forage)",
+        "title": "Quantitative Research",
+        "years": "April 2025",
+        "description": "Investigated the price data and credit risk analysis. Used Dynamic programming for converting FICO scores into categroical data."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "PyTorch",
+        "level": "80%"
+      },
+      {
+        "name": "Scikit",
+        "level": "70%"
+      },
+      {
+        "name": "Keras",
+        "level": "75%"
+      },
+      {
+        "name": "Tensorflow",
+        "level": "75%"
+      },
+      {
+        "name": "Java",
+        "level": "75%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Black-Scholes model using Machine Learning",
+        "category": "",
+        "image": "black scholes.png",
+        "url": "https://github.com/KARTHIKEYA-211/Black-Scholes"
+      },
+      {
+        "title": "Game AI using Reinforcment Learning",
+        "category": "",
+        "image": "tic.png",
+        "url": "https://github.com/KARTHIKEYA-211/Game-AI"
+      }
+    ]
+  }
+  
+}
